@@ -1,7 +1,8 @@
-package com.github.dakusaido.spendtracks
+package com.github.dakusaido.spendtracks.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.github.dakusaido.spendtracks.R
 
 class UserAreaActivity : AppCompatActivity() {
 
